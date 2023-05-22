@@ -6,7 +6,9 @@ Este proyecto es la transformación del proyecto creado en el repositorio [go_co
 El conjunto de microservicios que forman parte de este proyecto son:
 1. Domain: https://github.com/jousga/go_course_web_microservices_domain
 2. Meta: https://github.com/jousga/go_course_web_microservices_meta
-
+3. User: https://github.com/jousga/go_course_web_microservices_user
+4. Course: https://github.com/jousga/go_course_web_microservices_course
+5. Enrollment: https://github.com/jousga/go_course_web_microservices_enrollment
 
 Para limpiar el proyecto y descargar las dependencias tenemos que usar el comando de GO:
 
